@@ -106,7 +106,7 @@ With debugging enabled you can start putting breakpoints right into your extensi
 
 ### Testing extensions using Gradle
 
-In a Gradle based HiveMQ Extension project, testing is supported using the dedicated [HiveMQ Extension Gradle Plugin](https://github.com/hivemq/hivemq-extension-gradle-plugin/README.md).
+In a Gradle based HiveMQ Extension project, testing is supported using the dedicated [HiveMQ Extension Gradle Plugin](https://github.com/hivemq/hivemq-extension-gradle-plugin/).
 
 The plugin adds an `integrationTest` task which executes tests from the `integrationTest` source set.
 - Integration test source files are defined in `src/integrationTest`.
